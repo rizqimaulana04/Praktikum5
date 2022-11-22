@@ -1,6 +1,6 @@
-print('Nama \t : MUHAMMAD RIZQI MAULANA')
-print('kelas \t : TI.22.A.4')
-print('Prodi \t : TEKNIK INFORMATIKA')
+print('NAMA \t : MUHAMMAD RIZQI MAULANA')
+print('NIM \t : 312210360')
+print('PRODI \t : TEKNIK INFORMATIKA')
 print(' ')
 i=0
 nm =[]
